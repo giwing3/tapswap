@@ -1,0 +1,1 @@
+48780|query_id=AAGne6pnAgAAAKd7qmc2TGVI&user=%7B%22id%22%3A6034193319%2C%22first_name%22%3A%22Airdropoe%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22Airdropoe3%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1718028363&hash=b44c9023f7bd8c52f73417fb14920be18d57edb7ec5af198eb9b04ee2383d29d
